@@ -1,0 +1,11 @@
+@media (max-width:375px)
+{
+    .container{
+        width: 295px;
+        height: 350px;
+        border-radius: 25px;
+        background-color: var(--Dark-Blue);
+        padding: 25px 30px 35px 20px;
+        border: none;
+    }
+}

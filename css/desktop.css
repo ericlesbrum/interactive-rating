@@ -1,0 +1,11 @@
+@media (min-width:376px)
+{
+    .container{
+        width: 350px;
+        height: 350px;
+        border-radius: 25px;
+        background-color: var(--Dark-Blue);
+        padding: 30px 40px 35px 40px;
+        border: none;
+    }
+}
